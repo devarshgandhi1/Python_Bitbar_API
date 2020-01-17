@@ -1,1 +1,1 @@
-testdroid==2.69.1
+testdroid==2.69.3
